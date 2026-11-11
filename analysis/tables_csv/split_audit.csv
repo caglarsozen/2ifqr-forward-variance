@@ -1,0 +1,6 @@
+"Asset","N","TrainN","CalibrationN","TestN","EmbargoTrainCalibration","EmbargoCalibrationTest","TrainLastTargetEnd","CalibrationFirstOrigin","CalibrationLastTargetEnd","TestFirstOrigin","TrainCalibrationNoOverlap","CalibrationTestNoOverlap"
+"PAVE",1458,874,262,262,30,30,"2022-09-02","2022-09-06","2023-11-01","2023-11-02",TRUE,TRUE
+"KO",1458,874,262,262,30,30,"2022-09-02","2022-09-06","2023-11-01","2023-11-02",TRUE,TRUE
+"BTC-USD",2140,1284,398,398,30,30,"2022-08-28","2022-08-29","2023-10-30","2023-10-31",TRUE,TRUE
+"PPLT",1458,874,262,262,30,30,"2022-09-02","2022-09-06","2023-11-01","2023-11-02",TRUE,TRUE
+"GLD",1458,874,262,262,30,30,"2022-09-02","2022-09-06","2023-11-01","2023-11-02",TRUE,TRUE

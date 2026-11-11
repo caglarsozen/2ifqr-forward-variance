@@ -1,0 +1,13 @@
+"Requirement","Actual","Passed"
+"Full mode","full",TRUE
+"Real adjusted-price data","Yahoo_adjusted",TRUE
+"Fixed five-asset panel","PAVE,KO,BTC-USD,PPLT,GLD",TRUE
+"Horizon 30","30",TRUE
+"Empirical modules","TRUE",TRUE
+"Empirical calibration replications","2000",TRUE
+"Paired inference replications","2000",TRUE
+"Simulation replications","500",TRUE
+"Simulation bootstrap replications","250",TRUE
+"GARCH conditional draws","20000",TRUE
+"Calibration numerical seeds","10",TRUE
+"R1 audit completed","TRUE",TRUE

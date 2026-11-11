@@ -1,0 +1,86 @@
+"Test","Objective","ExpectedObjective","Passed"
+"R1 horizon identity PAVE",4.57397791517322e-20,0,TRUE
+"R1 complete horizons PAVE",,,TRUE
+"R1 projection audit PAVE",,,TRUE
+"R1 gamma candidates PAVE",,,TRUE
+"R1 block grid PAVE",,,TRUE
+"R1 direct-calibration label PAVE",,,TRUE
+"R1 Monte Carlo grid PAVE",,,TRUE
+"R1 numerical reference identity PAVE",,,TRUE
+"R1 GARCH convergence and causality PAVE",,,TRUE
+"R1 GARCH coherent quantiles PAVE",,,TRUE
+"R1 GARCH same calibration origins PAVE",,,TRUE
+"R1 GARCH same test origins PAVE",,,TRUE
+"R1 horizon identity KO",1.35525271560688e-20,0,TRUE
+"R1 complete horizons KO",,,TRUE
+"R1 projection audit KO",,,TRUE
+"R1 gamma candidates KO",,,TRUE
+"R1 block grid KO",,,TRUE
+"R1 direct-calibration label KO",,,TRUE
+"R1 Monte Carlo grid KO",,,TRUE
+"R1 numerical reference identity KO",,,TRUE
+"R1 GARCH convergence and causality KO",,,TRUE
+"R1 GARCH coherent quantiles KO",,,TRUE
+"R1 GARCH same calibration origins KO",,,TRUE
+"R1 GARCH same test origins KO",,,TRUE
+"R1 horizon identity BTC-USD",5.42101086242752e-20,0,TRUE
+"R1 complete horizons BTC-USD",,,TRUE
+"R1 projection audit BTC-USD",,,TRUE
+"R1 gamma candidates BTC-USD",,,TRUE
+"R1 block grid BTC-USD",,,TRUE
+"R1 direct-calibration label BTC-USD",,,TRUE
+"R1 Monte Carlo grid BTC-USD",,,TRUE
+"R1 numerical reference identity BTC-USD",,,TRUE
+"R1 GARCH convergence and causality BTC-USD",,,TRUE
+"R1 GARCH coherent quantiles BTC-USD",,,TRUE
+"R1 GARCH same calibration origins BTC-USD",,,TRUE
+"R1 GARCH same test origins BTC-USD",,,TRUE
+"R1 horizon identity PPLT",1.35525271560688e-20,0,TRUE
+"R1 complete horizons PPLT",,,TRUE
+"R1 projection audit PPLT",,,TRUE
+"R1 gamma candidates PPLT",,,TRUE
+"R1 block grid PPLT",,,TRUE
+"R1 direct-calibration label PPLT",,,TRUE
+"R1 Monte Carlo grid PPLT",,,TRUE
+"R1 numerical reference identity PPLT",,,TRUE
+"R1 GARCH convergence and causality PPLT",,,TRUE
+"R1 GARCH coherent quantiles PPLT",,,TRUE
+"R1 GARCH same calibration origins PPLT",,,TRUE
+"R1 GARCH same test origins PPLT",,,TRUE
+"R1 horizon identity GLD",1.18584612615602e-20,0,TRUE
+"R1 complete horizons GLD",,,TRUE
+"R1 projection audit GLD",,,TRUE
+"R1 gamma candidates GLD",,,TRUE
+"R1 block grid GLD",,,TRUE
+"R1 direct-calibration label GLD",,,TRUE
+"R1 Monte Carlo grid GLD",,,TRUE
+"R1 numerical reference identity GLD",,,TRUE
+"R1 GARCH convergence and causality GLD",,,TRUE
+"R1 GARCH coherent quantiles GLD",,,TRUE
+"R1 GARCH same calibration origins GLD",,,TRUE
+"R1 GARCH same test origins GLD",,,TRUE
+"R1 output r1_horizon_loss_differences",,,TRUE
+"R1 output r1_horizon_origin_losses",,,TRUE
+"R1 output r1_horizon_quantile_loss_differences",,,TRUE
+"R1 output r1_projection_decomposition",,,TRUE
+"R1 output r1_gamma_validation_profile",,,TRUE
+"R1 output r1_depth_training_details",,,TRUE
+"R1 output r1_depth_information_summary",,,TRUE
+"R1 output r1_weight_clipping_by_fit",,,TRUE
+"R1 output r1_block_length_sensitivity",,,TRUE
+"R1 output r1_bootstrap_replication_sensitivity",,,TRUE
+"R1 output r1_bootstrap_numerical_stability",,,TRUE
+"R1 output r1_garch_parameters",,,TRUE
+"R1 output r1_garch_optimization",,,TRUE
+"R1 output r1_garch_forecast_origins",,,TRUE
+"R1 output r1_garch_mc_stability",,,TRUE
+"R1 output r1_garch_shape_audit",,,TRUE
+"R1 output r1_garch_paired_inference",,,TRUE
+"R1 output r1_distributional_benchmark_metrics",,,TRUE
+"R1 output r1_distributional_benchmark_bands",,,TRUE
+"R1 figure fig_r1_horizon_pinball_difference png",,,TRUE
+"R1 figure fig_r1_horizon_pinball_difference pdf",,,TRUE
+"R1 figure fig_r1_gamma_validation_profile png",,,TRUE
+"R1 figure fig_r1_gamma_validation_profile pdf",,,TRUE
+"R1 figure fig_r1_distributional_benchmark png",,,TRUE
+"R1 figure fig_r1_distributional_benchmark pdf",,,TRUE

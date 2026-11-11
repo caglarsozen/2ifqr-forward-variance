@@ -1,0 +1,19 @@
+"Test","Objective","ExpectedObjective","Passed"
+"Exact Dykstra projection counterexample",0.891666714747751,0.8916666666667,TRUE
+"Synthetic H-embargo separation",1,1,TRUE
+"Climatology quantile replication uses times",1,1,TRUE
+"One-sided 95% simultaneous upper-band construction",1,1,TRUE
+"Weighted--unweighted tail diagnostic identity",1,1,TRUE
+"Academic LaTeX labels and underscore removal",1,1,TRUE
+"R1 marginal-rank depth can assign equal centrality to distinct paths",,,TRUE
+"R1 gamma zero produces exact unit weights",,,TRUE
+"R1 depth is unchanged by increasing coordinate transformations",,,TRUE
+"R1 block samples use valid indices",,,TRUE
+"R1 L1 calibration has no bootstrap guard",,,TRUE
+"R1 calibration prefixes are nested",,,TRUE
+"R1 identical primary models retain zero gain with p one",,,TRUE
+"R1 GARCH H1 simulated quantiles match analytic squared-t law",0.0582082833044946,0.12,TRUE
+"R1 GARCH shared paths imply ordered nonnegative quantiles",,,TRUE
+"R1 GARCH filtering excludes later returns",,,TRUE
+"R1 GARCH simulation preserves the caller RNG state",,,TRUE
+"R1 Student-t likelihood optimizer converges on a synthetic sample",,,TRUE

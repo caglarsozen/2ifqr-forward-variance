@@ -1,0 +1,2 @@
+"Asset","LegacyMeanUpperCoverage","LegacyMinimumHorizonUpperCoverage","LegacySource","CurrentMeanUpperCoverage","CurrentMinimumHorizonUpperCoverage","SimultaneousUpperPathCoverage","CalibrationQuantile","BlockLength","ChangeInMeanUpperCoverage","ChangeInMinimumHorizonUpperCoverage"
+"BTC-USD",0.988,0.9487,"Original manuscript Table 4; reported values, not recomputed",0.999832495812395,0.994974874371859,0.994974874371859,3.48413655804911,30,0.0118324958123953,0.0462748743718593

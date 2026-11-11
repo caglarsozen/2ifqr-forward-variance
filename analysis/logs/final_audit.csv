@@ -1,0 +1,178 @@
+"Test","Objective","ExpectedObjective","Passed"
+"Exact Dykstra projection counterexample",0.891666714747751,0.8916666666667,TRUE
+"Synthetic H-embargo separation",1,1,TRUE
+"Climatology quantile replication uses times",1,1,TRUE
+"One-sided 95% simultaneous upper-band construction",1,1,TRUE
+"Weighted--unweighted tail diagnostic identity",1,1,TRUE
+"Academic LaTeX labels and underscore removal",1,1,TRUE
+"R1 marginal-rank depth can assign equal centrality to distinct paths",,,TRUE
+"R1 gamma zero produces exact unit weights",,,TRUE
+"R1 depth is unchanged by increasing coordinate transformations",,,TRUE
+"R1 block samples use valid indices",,,TRUE
+"R1 L1 calibration has no bootstrap guard",,,TRUE
+"R1 calibration prefixes are nested",,,TRUE
+"R1 identical primary models retain zero gain with p one",,,TRUE
+"R1 GARCH H1 simulated quantiles match analytic squared-t law",0.0582082833044946,0.12,TRUE
+"R1 GARCH shared paths imply ordered nonnegative quantiles",,,TRUE
+"R1 GARCH filtering excludes later returns",,,TRUE
+"R1 GARCH simulation preserves the caller RNG state",,,TRUE
+"R1 Student-t likelihood optimizer converges on a synthetic sample",,,TRUE
+"Leakage-safe split: PAVE",,,TRUE
+"Leakage-safe split: KO",,,TRUE
+"Leakage-safe split: BTC-USD",,,TRUE
+"Leakage-safe split: PPLT",,,TRUE
+"Leakage-safe split: GLD",,,TRUE
+"Selected surface constraints: PAVE",,,TRUE
+"Selected surface constraints: KO",,,TRUE
+"Selected surface constraints: BTC-USD",,,TRUE
+"Selected surface constraints: PPLT",,,TRUE
+"Selected surface constraints: GLD",,,TRUE
+"One-sided 95% upper-band output: PAVE / QR + exact 2I+",0.95,0.95,TRUE
+"One-sided 95% upper-band output: PAVE / Selected 2I-FQR",0.95,0.95,TRUE
+"One-sided 95% upper-band output: KO / QR + exact 2I+",0.95,0.95,TRUE
+"One-sided 95% upper-band output: KO / Selected 2I-FQR",0.95,0.95,TRUE
+"One-sided 95% upper-band output: BTC-USD / QR + exact 2I+",0.95,0.95,TRUE
+"One-sided 95% upper-band output: BTC-USD / Selected 2I-FQR",0.95,0.95,TRUE
+"One-sided 95% upper-band output: PPLT / QR + exact 2I+",0.95,0.95,TRUE
+"One-sided 95% upper-band output: PPLT / Selected 2I-FQR",0.95,0.95,TRUE
+"One-sided 95% upper-band output: GLD / QR + exact 2I+",0.95,0.95,TRUE
+"One-sided 95% upper-band output: GLD / Selected 2I-FQR",0.95,0.95,TRUE
+"Tail weighting diagnostic: PAVE / tau=0.05",0.05,0.05,TRUE
+"Tail weighting diagnostic: PAVE / tau=0.95",0.95,0.95,TRUE
+"Tail weighting diagnostic: KO / tau=0.05",0.05,0.05,TRUE
+"Tail weighting diagnostic: KO / tau=0.95",0.95,0.95,TRUE
+"Tail weighting diagnostic: BTC-USD / tau=0.05",0.05,0.05,TRUE
+"Tail weighting diagnostic: BTC-USD / tau=0.95",0.95,0.95,TRUE
+"Tail weighting diagnostic: PPLT / tau=0.05",0.05,0.05,TRUE
+"Tail weighting diagnostic: PPLT / tau=0.95",0.95,0.95,TRUE
+"Tail weighting diagnostic: GLD / tau=0.05",0.05,0.05,TRUE
+"Tail weighting diagnostic: GLD / tau=0.95",0.95,0.95,TRUE
+"Primary two-sided band equals its block-sensitivity row",0,0,TRUE
+"Primary upper band equals its block-sensitivity row",0,0,TRUE
+"Paired-inference comparator cleanup",20,,TRUE
+"Finite two-sided intervals and multiplicity-adjusted tests",5,5,TRUE
+"Validation-sample WIS and pinball identity",5,5,TRUE
+"Fixed manuscript panel retained without outcome-based replacement",5,5,TRUE
+"Fixed-panel assessment labels describe observed outcomes",3,,TRUE
+"PAVE calibration-guard sensitivity and predictive inference",2,2,TRUE
+"Simulation task completion",0,0,TRUE
+"Simulation oracle diagnostic completion",1800,1800,TRUE
+"All projected simulation calibration and test surfaces satisfy shape constraints",0,0,TRUE
+"Simulation band-coverage claim diagnostic completion",24,24,TRUE
+"Publication-profile computational requirements",500,500,TRUE
+"Manuscript-ready LaTeX table: tab_descriptive_statistics.tex",0,0,TRUE
+"Manuscript-ready LaTeX table: tab_selected_depth_configuration.tex",0,0,TRUE
+"Manuscript-ready LaTeX table: tab_empirical_main_metrics.tex",0,0,TRUE
+"Manuscript-ready LaTeX table: tab_horizon_subset_efficiency.tex",0,0,TRUE
+"Manuscript-ready LaTeX table: tab_simultaneous_band_metrics.tex",0,0,TRUE
+"Manuscript-ready LaTeX table: tab_simultaneous_upper_band_metrics.tex",0,0,TRUE
+"Manuscript-ready LaTeX table: tab_legacy_vs_current_upper_coverage.tex",0,0,TRUE
+"Manuscript-ready LaTeX table: tab_tail_weighting_comparison.tex",0,0,TRUE
+"Manuscript-ready LaTeX table: tab_paired_loss_inference.tex",0,0,TRUE
+"Manuscript-ready LaTeX table: tab_fixed_panel_adjusted_inference.tex",0,0,TRUE
+"Manuscript-ready LaTeX table: tab_validation_wis_pinball_identity_audit.tex",0,0,TRUE
+"Manuscript-ready LaTeX table: tab_pave_calibration_guard_sensitivity.tex",0,0,TRUE
+"Manuscript-ready LaTeX table: tab_leakage_split_audit.tex",0,0,TRUE
+"Manuscript-ready LaTeX table: tab_prediction_surface_audit.tex",0,0,TRUE
+"Manuscript-ready LaTeX table: tab_quantile_calibration.tex",0,0,TRUE
+"Manuscript-ready LaTeX table: tab_depth_sensitivity.tex",0,0,TRUE
+"Manuscript-ready LaTeX table: tab_quantile_grid_sensitivity.tex",0,0,TRUE
+"Manuscript-ready LaTeX table: tab_block_length_sensitivity.tex",0,0,TRUE
+"Manuscript-ready LaTeX table: tab_upper_block_length_sensitivity.tex",0,0,TRUE
+"Manuscript-ready LaTeX table: tab_simulation_performance.tex",0,0,TRUE
+"Manuscript-ready LaTeX table: tab_simulation_band_coverage.tex",0,0,TRUE
+"Manuscript-ready LaTeX table: tab_simulation_shape_audit.tex",0,0,TRUE
+"Manuscript-ready LaTeX table: tab_simulation_tail_calibration.tex",0,0,TRUE
+"Manuscript-ready LaTeX table: tab_simulation_oracle_bias.tex",0,0,TRUE
+"Manuscript-ready LaTeX table: tab_simulation_weighting_comparison.tex",0,0,TRUE
+"Integrated manuscript reporting figure: fig_fixed_panel_adjusted_pinball_gain.png",1,1,TRUE
+"Integrated manuscript reporting figure: fig_fixed_panel_adjusted_pinball_gain.pdf",1,1,TRUE
+"Integrated manuscript reporting figure: fig_simultaneous_band_width.png",1,1,TRUE
+"Integrated manuscript reporting figure: fig_simultaneous_band_width.pdf",1,1,TRUE
+"Integrated manuscript reporting figure: fig_pave_calibration_guard_sensitivity.png",1,1,TRUE
+"Integrated manuscript reporting figure: fig_pave_calibration_guard_sensitivity.pdf",1,1,TRUE
+"R1 horizon identity PAVE",4.57397791517322e-20,0,TRUE
+"R1 complete horizons PAVE",,,TRUE
+"R1 projection audit PAVE",,,TRUE
+"R1 gamma candidates PAVE",,,TRUE
+"R1 block grid PAVE",,,TRUE
+"R1 direct-calibration label PAVE",,,TRUE
+"R1 Monte Carlo grid PAVE",,,TRUE
+"R1 numerical reference identity PAVE",,,TRUE
+"R1 GARCH convergence and causality PAVE",,,TRUE
+"R1 GARCH coherent quantiles PAVE",,,TRUE
+"R1 GARCH same calibration origins PAVE",,,TRUE
+"R1 GARCH same test origins PAVE",,,TRUE
+"R1 horizon identity KO",1.35525271560688e-20,0,TRUE
+"R1 complete horizons KO",,,TRUE
+"R1 projection audit KO",,,TRUE
+"R1 gamma candidates KO",,,TRUE
+"R1 block grid KO",,,TRUE
+"R1 direct-calibration label KO",,,TRUE
+"R1 Monte Carlo grid KO",,,TRUE
+"R1 numerical reference identity KO",,,TRUE
+"R1 GARCH convergence and causality KO",,,TRUE
+"R1 GARCH coherent quantiles KO",,,TRUE
+"R1 GARCH same calibration origins KO",,,TRUE
+"R1 GARCH same test origins KO",,,TRUE
+"R1 horizon identity BTC-USD",5.42101086242752e-20,0,TRUE
+"R1 complete horizons BTC-USD",,,TRUE
+"R1 projection audit BTC-USD",,,TRUE
+"R1 gamma candidates BTC-USD",,,TRUE
+"R1 block grid BTC-USD",,,TRUE
+"R1 direct-calibration label BTC-USD",,,TRUE
+"R1 Monte Carlo grid BTC-USD",,,TRUE
+"R1 numerical reference identity BTC-USD",,,TRUE
+"R1 GARCH convergence and causality BTC-USD",,,TRUE
+"R1 GARCH coherent quantiles BTC-USD",,,TRUE
+"R1 GARCH same calibration origins BTC-USD",,,TRUE
+"R1 GARCH same test origins BTC-USD",,,TRUE
+"R1 horizon identity PPLT",1.35525271560688e-20,0,TRUE
+"R1 complete horizons PPLT",,,TRUE
+"R1 projection audit PPLT",,,TRUE
+"R1 gamma candidates PPLT",,,TRUE
+"R1 block grid PPLT",,,TRUE
+"R1 direct-calibration label PPLT",,,TRUE
+"R1 Monte Carlo grid PPLT",,,TRUE
+"R1 numerical reference identity PPLT",,,TRUE
+"R1 GARCH convergence and causality PPLT",,,TRUE
+"R1 GARCH coherent quantiles PPLT",,,TRUE
+"R1 GARCH same calibration origins PPLT",,,TRUE
+"R1 GARCH same test origins PPLT",,,TRUE
+"R1 horizon identity GLD",1.18584612615602e-20,0,TRUE
+"R1 complete horizons GLD",,,TRUE
+"R1 projection audit GLD",,,TRUE
+"R1 gamma candidates GLD",,,TRUE
+"R1 block grid GLD",,,TRUE
+"R1 direct-calibration label GLD",,,TRUE
+"R1 Monte Carlo grid GLD",,,TRUE
+"R1 numerical reference identity GLD",,,TRUE
+"R1 GARCH convergence and causality GLD",,,TRUE
+"R1 GARCH coherent quantiles GLD",,,TRUE
+"R1 GARCH same calibration origins GLD",,,TRUE
+"R1 GARCH same test origins GLD",,,TRUE
+"R1 output r1_horizon_loss_differences",,,TRUE
+"R1 output r1_horizon_origin_losses",,,TRUE
+"R1 output r1_horizon_quantile_loss_differences",,,TRUE
+"R1 output r1_projection_decomposition",,,TRUE
+"R1 output r1_gamma_validation_profile",,,TRUE
+"R1 output r1_depth_training_details",,,TRUE
+"R1 output r1_depth_information_summary",,,TRUE
+"R1 output r1_weight_clipping_by_fit",,,TRUE
+"R1 output r1_block_length_sensitivity",,,TRUE
+"R1 output r1_bootstrap_replication_sensitivity",,,TRUE
+"R1 output r1_bootstrap_numerical_stability",,,TRUE
+"R1 output r1_garch_parameters",,,TRUE
+"R1 output r1_garch_optimization",,,TRUE
+"R1 output r1_garch_forecast_origins",,,TRUE
+"R1 output r1_garch_mc_stability",,,TRUE
+"R1 output r1_garch_shape_audit",,,TRUE
+"R1 output r1_garch_paired_inference",,,TRUE
+"R1 output r1_distributional_benchmark_metrics",,,TRUE
+"R1 output r1_distributional_benchmark_bands",,,TRUE
+"R1 figure fig_r1_horizon_pinball_difference png",,,TRUE
+"R1 figure fig_r1_horizon_pinball_difference pdf",,,TRUE
+"R1 figure fig_r1_gamma_validation_profile png",,,TRUE
+"R1 figure fig_r1_gamma_validation_profile pdf",,,TRUE
+"R1 figure fig_r1_distributional_benchmark png",,,TRUE
+"R1 figure fig_r1_distributional_benchmark pdf",,,TRUE

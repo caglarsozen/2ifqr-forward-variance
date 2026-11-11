@@ -1,0 +1,13 @@
+"Scenario","Method","ProjectedFits","PassedFits","FailedFits","MinimumPrediction","MaximumHorizonViolation","MaximumQuantileViolation","Passed"
+"Gaussian moderate persistence","Depth QR + exact 2I+",500,500,0,0,1.8395901715991e-09,0,TRUE
+"Gaussian moderate persistence","QR + exact 2I+",500,500,0,0,1.50865848779587e-09,0,TRUE
+"Student t3.5 high persistence","Depth QR + exact 2I+",500,500,0,0,3.03530102506271e-09,0,TRUE
+"Student t3.5 high persistence","QR + exact 2I+",500,500,0,0,1.88283151748717e-09,0,TRUE
+"Student t5 high persistence","Depth QR + exact 2I+",500,500,0,0,1.68577139834231e-09,0,TRUE
+"Student t5 high persistence","QR + exact 2I+",500,500,0,0,1.20366347704931e-09,0,TRUE
+"Student t5 short horizon","Depth QR + exact 2I+",500,500,0,0,1.69114316029683e-09,0,TRUE
+"Student t5 short horizon","QR + exact 2I+",500,500,0,0,7.76231759154044e-10,0,TRUE
+"Student t5 variance regime shift","Depth QR + exact 2I+",500,500,0,0,2.73146643476295e-09,0,TRUE
+"Student t5 variance regime shift","QR + exact 2I+",500,500,0,0,2.52747541537417e-09,0,TRUE
+"Student t5 with contamination","Depth QR + exact 2I+",500,500,0,0,1.87441093479901e-08,0,TRUE
+"Student t5 with contamination","QR + exact 2I+",500,500,0,0,8.20412386914882e-08,0,TRUE

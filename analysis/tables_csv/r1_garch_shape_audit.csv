@@ -1,0 +1,6 @@
+"Asset","Method","MinimumPrediction","MaximumHorizonViolation","MaximumQuantileViolation","Passed"
+"PAVE","Student-t GARCH(1,1)",2.68770955322649e-07,0,0,TRUE
+"KO","Student-t GARCH(1,1)",1.21369744421653e-07,0,0,TRUE
+"BTC-USD","Student-t GARCH(1,1)",6.39691603472323e-07,0,0,TRUE
+"PPLT","Student-t GARCH(1,1)",6.44866211022261e-07,0,0,TRUE
+"GLD","Student-t GARCH(1,1)",1.1645054930616e-07,0,0,TRUE

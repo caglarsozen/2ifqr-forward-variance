@@ -1,0 +1,6 @@
+"Source","Asset","StartDate","EndDate","Target","HorizonUnits"
+"Yahoo_adjusted","PAVE","2019-01-01","2024-12-31","Cumulative squared daily log returns; variance proxy","Successive available return observations; not a common calendar-day horizon"
+"Yahoo_adjusted","KO","2019-01-01","2024-12-31","Cumulative squared daily log returns; variance proxy","Successive available return observations; not a common calendar-day horizon"
+"Yahoo_adjusted","BTC-USD","2019-01-01","2024-12-31","Cumulative squared daily log returns; variance proxy","Successive available return observations; not a common calendar-day horizon"
+"Yahoo_adjusted","PPLT","2019-01-01","2024-12-31","Cumulative squared daily log returns; variance proxy","Successive available return observations; not a common calendar-day horizon"
+"Yahoo_adjusted","GLD","2019-01-01","2024-12-31","Cumulative squared daily log returns; variance proxy","Successive available return observations; not a common calendar-day horizon"
